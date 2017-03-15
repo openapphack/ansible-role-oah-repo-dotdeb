@@ -1,0 +1,19 @@
+---
+dependencies: []
+
+galaxy_info:
+  author: Vinod Panicker
+  description: dotdeb installation for OAH.
+  company: ""
+  license: "license (BSD, MIT)"
+  min_ansible_version: 2.0
+  platforms:
+  - name: Ubuntu
+    versions:
+    - xenial
+  - name: Debian
+    versions:
+    - all
+  categories:
+    - development
+    - web
